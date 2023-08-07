@@ -1,8 +1,5 @@
-/* Name: Philip Chen
-Teacher: Mr. Guglielmi
-Date: October 23, 2020
-Assignment: Using return methods to create an imperial-metric distance converter
-*/
+// Using return methods to create an imperial-metric distance converter
+
 import hsa.Console;
 import java.awt.*;
 
